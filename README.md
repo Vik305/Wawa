@@ -1,13 +1,13 @@
 # Werewere 🫡
 Solo un Ni | Mexico | Instagram | vik305thor@eso
 
-## Sobre mi
+## Sobre mi 👉👈 🥵
 
-Soy chido. emoji de pulgar arriba
-Yo te quiero enseñar cosas maravillosas, ven princesa y deja a tu corazon soñar
-Yo puedo mostrar este mundo esplendido, en mi alfombra
-Un mundo ideal, sera fantastico 
-Nadie que diga no o adonde ir
+Soy chido. emoji de pulgar arriba.
+Yo te quiero enseñar cosas maravillosas, ven princesa y deja a tu corazon soñar.
+Yo puedo mostrar este mundo esplendido, en mi alfombra.
+Un mundo ideal, sera fantastico.
+Nadie que diga no o adonde ir.
  ## Tecnologìas y herramientas
  ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
