@@ -1,7 +1,7 @@
 # Werewere 🫡
 Solo un Ni | Mexico | Instagram | vik305thor@eso
 
-##Sobre mi
+## Sobre mi
 
 Soy chido. emoji de pulgar arriba
 Yo te quiero enseñar cosas maravillosas, ven princesa y deja a tu corazon soñar
